@@ -21,7 +21,6 @@ input{
     font-size: xx-large;
 }
 h2{
-<<<<<<< HEAD
     font-family: "Sour Gummy", sans-serif;
     font-weight: 300;
 }
@@ -35,14 +34,4 @@ h2{
 h2{
     margin-top: 10px !important;
 }
-}
-@media (max-width: 480px) { 
-
-}
-@media (max-width: 768px) { 
-
-=======
-    font-weight: 400;
-    font-style: normal;
->>>>>>> e525fa91f7f64e83370268854c5b0b4b584aed7e
 }
